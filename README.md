@@ -4,7 +4,7 @@ A new Flutter project.
 
 Here is what it looks like
 
-![](first-app.gif)
+![](first-app.gif =50x50)
 
 ## Getting Started
 
