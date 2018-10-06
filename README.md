@@ -4,7 +4,7 @@ A new Flutter project.
 
 Here is what it looks like
 
-![](first-app.gif =50x50)<!-- .element height="50%" width="50%" -->
+<img src="first-app.gif" height="50%" width="50%" />
 
 ## Getting Started
 
